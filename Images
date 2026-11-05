@@ -1,0 +1,4 @@
+Great Work! Now, images are loading perfectly well and edits are executing. But the 'Actions > View' tab at the tail end of "All Listings"
+from the Admin Dashboard doesn't load to any particular page. Can we fix that. And there is still the persistent issues of newly approved/ 'Latest listings' 
+displaying at the bottom of the home page. Or do we need more 
+than one approved listing before this comes into effect. The homepage is the default landing page at http://localhost:3001
